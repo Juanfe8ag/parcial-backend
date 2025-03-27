@@ -15,3 +15,5 @@ Y por ultimo, un PUT para actualizar la lista de productos por si hubo un error 
 Para User se tiene un metodo POST de creacion del usuario y un metodo GET para obtener al usuario y sus atributos, como el email, quien es con el que esta ligado todo.
 
 ## Modelo de arquitectura en Astah ##
+![Astah Model.png](util%2FAstah%20Model.png)
+![Modelo arquitectura.png](util%2FModelo%20arquitectura.png)
