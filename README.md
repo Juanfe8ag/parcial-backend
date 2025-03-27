@@ -1,8 +1,8 @@
-# ECICredit Parcial CVDS 2025-01 #
+# ECICredit BackEnd Parcial CVDS 2025-01 #
 
 ## Arquitectura ##
 
-El proyecto esta conformado por  2 repositorios, 2 servicios (usuario y factura) y 2 controladores.
+El proyecto esta conformado por 2 repositorios, 2 servicios (usuario y factura) y 2 controladores.
 
 Las tecnologías que se usaron fueron Spring Initializr para el scaffolding del proyecto, MongoDB para la base de datos conectada al proyecto y
 Azure para el despliegue del proyecto.
