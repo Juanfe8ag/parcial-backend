@@ -10,4 +10,5 @@ public class EciCreditApplication {
 		SpringApplication.run(EciCreditApplication.class, args);
 	}
 
+
 }
