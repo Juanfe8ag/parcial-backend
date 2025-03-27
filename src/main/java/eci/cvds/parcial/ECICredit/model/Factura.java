@@ -47,31 +47,13 @@ public class Factura {
     public int getTotalAmount() {
         return totalAmount;
     }
-    public void setTotalAmount(int totalAmount) {
-        this.totalAmount = totalAmount;
-    }
-    public boolean getEstado() {
-        return estado;
-    }
     public void setEstado(boolean estado) {
         this.estado = estado;
-    }
-    public LocalDate getFechaCompra() {
-        return fechaCompra;
-    }
-    public void setFechaCompra(LocalDate fechaCompra) {
-        this.fechaCompra = fechaCompra;
     }
     public String getUserId() {
         return userId;
     }
     public void setUserId(String userId) {
         this.userId = userId;
-    }
-    public String getFacturaId() {
-        return facturaId;
-    }
-    public void setFacturaId(String facturaId) {
-        this.facturaId = facturaId;
     }
 }
